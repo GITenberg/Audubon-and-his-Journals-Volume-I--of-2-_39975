@@ -1,0 +1,46 @@
+_repo: Audubon-and-his-Journals-Volume-I--of-2-_39975
+_version: 0.1.0
+contributor:
+  annotator:
+    agent_name: Coues, Elliott
+    birthdate: 1842
+    deathdate: 1899
+    gutenberg_agent_id: '4611'
+    url: http://www.gutenberg.org/2009/agents/4611
+    wikipedia: http://en.wikipedia.org/wiki/Elliott_Coues
+covers:
+- cover_type: archival
+  image_path: 39975-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Audubon, John James
+    aliases:
+    - Audubon, Jean Jacques Fougère
+    - Audubon, Jean Jacques Fougere
+    - Rabin, Jean
+    birthdate: 1785
+    deathdate: 1851
+    gutenberg_agent_id: '41878'
+    url: http://www.gutenberg.org/2009/agents/41878
+  editor:
+    agent_name: Audubon, Maria Rebecca
+    birthdate: 1843
+    deathdate: 1925
+    gutenberg_agent_id: '40348'
+    url: http://www.gutenberg.org/2009/agents/40348
+description: ''
+gutenberg_issued: '2012-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39975'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Naturalists -- United States -- Diaries'
+- !lcc 'QL'
+- !lcsh 'Birds -- North America'
+- !lcsh 'Audubon, John James, 1785-1851 -- Diaries'
+title: Audubon and his Journals, Volume 1 (of 2)
+url: http://www.gutenberg.org/ebooks/39975
